@@ -1,4 +1,4 @@
-# yogasana
+# Yogasana
   - Yoga and Health issue site fully developed in PHP.
   - Site have set of yoga and health issue problem.
   - Develope by use HTML,CSS,Bootstap,PHP and Mysql.
